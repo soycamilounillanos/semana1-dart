@@ -1,4 +1,8 @@
-// ejercicio 1
+/**
+Crear una lista dinámica de 6 elementos, en la cual se recolectarán edades
+de personas. Como resultado el programa mostrará la edad mayor, menor y
+el promedio de edades ingresadas.
+ */
 import 'dart:math';
 
 main() {
